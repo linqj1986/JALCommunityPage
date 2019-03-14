@@ -14,7 +14,23 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		+oFgVlTBD/SHv+PHEwY8EeaE4zU=
+		usWmmNc3UoZL0M5K6PX7JqwLm8Q=
+		</data>
+		<key>JALCommunityBundle.bundle/Contents/Info.plist</key>
+		<data>
+		Ij02jeLHqq9B5GnLRAcs4xTMqW4=
+		</data>
+		<key>JALCommunityBundle.bundle/Contents/MacOS/JALCommunityBundle</key>
+		<data>
+		xkfgOo4+B4lTpMhWPUBoVTDfpqQ=
+		</data>
+		<key>JALCommunityBundle.bundle/Contents/Resources/Assets.car</key>
+		<data>
+		TK8h88onWHS6zqz57WDabS9Ow3Y=
+		</data>
+		<key>JALCommunityBundle.bundle/Contents/_CodeSignature/CodeResources</key>
+		<data>
+		EbcAleuZAt7bV4rPvU3YpnzNmdY=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -43,6 +59,50 @@
 			<key>hash2</key>
 			<data>
 			zjV5p9O0kCPe5ZB952I8CKVo6iL3GC4l+nvHYnpyj34=
+			</data>
+		</dict>
+		<key>JALCommunityBundle.bundle/Contents/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Ij02jeLHqq9B5GnLRAcs4xTMqW4=
+			</data>
+			<key>hash2</key>
+			<data>
+			8c2iumoXBD915Z2yJvmYjFaxQ2udvgYXsGQ+axwTVZ8=
+			</data>
+		</dict>
+		<key>JALCommunityBundle.bundle/Contents/MacOS/JALCommunityBundle</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			xkfgOo4+B4lTpMhWPUBoVTDfpqQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			wjG+NReGzvf6Ro+DtLq0xMUqdTWlkFD6c/fy20sLuG0=
+			</data>
+		</dict>
+		<key>JALCommunityBundle.bundle/Contents/Resources/Assets.car</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			TK8h88onWHS6zqz57WDabS9Ow3Y=
+			</data>
+			<key>hash2</key>
+			<data>
+			NqIaK1a8skuRaIQ/cUF8FdxqX0kBl1YB/bwk1kzNysw=
+			</data>
+		</dict>
+		<key>JALCommunityBundle.bundle/Contents/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			EbcAleuZAt7bV4rPvU3YpnzNmdY=
+			</data>
+			<key>hash2</key>
+			<data>
+			3tFPqU71TbwPXLsXnbynKBLJMcftoIF61IaQDYARj6g=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
