@@ -4,6 +4,10 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>.DS_Store</key>
+		<data>
+		uJac94i9P6b31SY7Uw4j8a5FkD8=
+		</data>
 		<key>Headers/JALCommunityPage.h</key>
 		<data>
 		oWZX3izGFWDB+qVZuyHtJFl70Cs=
@@ -16,21 +20,21 @@
 		<data>
 		usWmmNc3UoZL0M5K6PX7JqwLm8Q=
 		</data>
-		<key>JALCommunityBundle.bundle/Contents/Info.plist</key>
+		<key>JALCommunityBundle.bundle/Assets.car</key>
 		<data>
-		Ij02jeLHqq9B5GnLRAcs4xTMqW4=
+		f+cHtZGXNiDaYpcAOATXMVSpBpk=
 		</data>
-		<key>JALCommunityBundle.bundle/Contents/MacOS/JALCommunityBundle</key>
+		<key>JALCommunityBundle.bundle/Info.plist</key>
 		<data>
-		wnrDY8hcg9yInmZ+SqAtH35HLnE=
+		8EgLRXYG763DxEowneyqJK5u1AA=
 		</data>
-		<key>JALCommunityBundle.bundle/Contents/Resources/Assets.car</key>
+		<key>JALCommunityBundle.bundle/JALCommunityBundle</key>
 		<data>
-		TK8h88onWHS6zqz57WDabS9Ow3Y=
+		By9Kn6UqdjfyL3H+DUeMp30nug4=
 		</data>
-		<key>JALCommunityBundle.bundle/Contents/_CodeSignature/CodeResources</key>
+		<key>JALCommunityBundle.bundle/exit@2x.png</key>
 		<data>
-		EbcAleuZAt7bV4rPvU3YpnzNmdY=
+		oaKMVf/Tvtq4fF4Qolt+uQgKPyo=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -61,48 +65,48 @@
 			zjV5p9O0kCPe5ZB952I8CKVo6iL3GC4l+nvHYnpyj34=
 			</data>
 		</dict>
-		<key>JALCommunityBundle.bundle/Contents/Info.plist</key>
+		<key>JALCommunityBundle.bundle/Assets.car</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Ij02jeLHqq9B5GnLRAcs4xTMqW4=
+			f+cHtZGXNiDaYpcAOATXMVSpBpk=
 			</data>
 			<key>hash2</key>
 			<data>
-			8c2iumoXBD915Z2yJvmYjFaxQ2udvgYXsGQ+axwTVZ8=
+			lSWO7aAq7lG8ocbOUzlhOOIUavuT860+O9MNvLsz210=
 			</data>
 		</dict>
-		<key>JALCommunityBundle.bundle/Contents/MacOS/JALCommunityBundle</key>
+		<key>JALCommunityBundle.bundle/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			wnrDY8hcg9yInmZ+SqAtH35HLnE=
+			8EgLRXYG763DxEowneyqJK5u1AA=
 			</data>
 			<key>hash2</key>
 			<data>
-			RtItYsFMBdAeMy7zUfGNp1oZhJGpo+gbuddHAxCy1vk=
+			dep24w2vJQbiHXEBAEvl2ZHn7loSuEDtvPknxKLslCI=
 			</data>
 		</dict>
-		<key>JALCommunityBundle.bundle/Contents/Resources/Assets.car</key>
+		<key>JALCommunityBundle.bundle/JALCommunityBundle</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			TK8h88onWHS6zqz57WDabS9Ow3Y=
+			By9Kn6UqdjfyL3H+DUeMp30nug4=
 			</data>
 			<key>hash2</key>
 			<data>
-			NqIaK1a8skuRaIQ/cUF8FdxqX0kBl1YB/bwk1kzNysw=
+			vkYei0zLe5Tki2N18I2mXLWk7x3uf+3Wu2jobmqTpF0=
 			</data>
 		</dict>
-		<key>JALCommunityBundle.bundle/Contents/_CodeSignature/CodeResources</key>
+		<key>JALCommunityBundle.bundle/exit@2x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			EbcAleuZAt7bV4rPvU3YpnzNmdY=
+			oaKMVf/Tvtq4fF4Qolt+uQgKPyo=
 			</data>
 			<key>hash2</key>
 			<data>
-			3tFPqU71TbwPXLsXnbynKBLJMcftoIF61IaQDYARj6g=
+			1rNnrwVHMJGBfB0EQ2kEHeFDnyYjMvi1RyDcm41MyNw=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
